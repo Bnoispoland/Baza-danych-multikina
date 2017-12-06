@@ -1,2 +1,0 @@
-# Baza-danych-multikina
-MySQL
